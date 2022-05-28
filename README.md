@@ -1,7 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/shcherbinovv/" target="_blank">Vitaly</a> 
+<h1 align="center">Hi there, my name's <a href="https://www.linkedin.com/in/shcherbinovv/" target="_blank">Vitaly</a> and I'm a Unity developer
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Unity developer</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=BB12B4&background=69696931&center=true&vCenter=true&lines=I'm+Unity+developer)](https://git.io/typing-svg)
+
 <!--
 **Vitaly086/Vitaly086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
