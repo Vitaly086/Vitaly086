@@ -1,9 +1,7 @@
-<h3 align="center">
-  Welcome to My profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
-</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=00DA10&vCenter=true&width=500&height=60&lines=Welcome+to+My+profile!)](https://git.io/typing-svg)
 
-
+##
+:speech_balloon: My contacts
  <div id="badges">
   <a href="https://www.linkedin.com/in/shcherbinovv/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -29,7 +27,8 @@
     
 
 
-### 🧰 Languages and Tools
+##
+🧰 Languages and Tools
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -44,6 +43,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
- 
 
-
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaly086&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
