@@ -18,7 +18,7 @@ Welcome to page! I'm Vitaly Shcherbinov, currently seeking a .Net developer posi
   </a>
   
   <a>
-    <a href="https://www.instagram.com/akavitaly/">
+    <a href="https://www.instagram.com/vshcherbinov_/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
